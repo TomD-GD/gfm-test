@@ -387,4 +387,3 @@ Visit https://github.com
 - Attaching files it issues and pull requests
 - Tasklists re-ordering and converting to issues
 - Linking to code
-- 
