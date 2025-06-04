@@ -257,6 +257,13 @@ The backslash character should allow you to escape Markdown formatting if you pu
 
 Let's rename \*our-new-project\* to \*our-old-project\*.
 
+## Block quotes
+
+A block quote marker consists of 0-3 spaces of initial indent, plus (a) the character > together with a following space, or (b) a single character > not followed by a space.
+> # Foo
+> bar
+> baz
+
 ## Advanced formatting
 
 GFM has a number of advanced formatting options, the following are applicable to my usecase.
