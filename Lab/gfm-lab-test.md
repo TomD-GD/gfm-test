@@ -12,7 +12,7 @@ This lab is a syntax tester for external markdown parsing. The parsed elements w
 ###### A sixth-level heading
 
 Github will generate a table of contents *outside* of the markdown if you add two pr more headers
-![](media/headings-toc.jpg)
+![test](media/headings-toc.jpg)
 
 ## Styling text
 
