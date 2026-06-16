@@ -394,3 +394,11 @@ Visit https://github.com
 - Attaching files it issues and pull requests
 - Tasklists re-ordering and converting to issues
 - Linking to code
+
+##other
+
+Supported pastelinks syntax V1
+
+!!Test1!!
+`Test2`
+```Test3```
